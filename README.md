@@ -4,9 +4,9 @@
 
 📄 Details of the challenge could be found at [OpenMined website](https://info.openmined.org/30daysofflcode).
 
-![immagine](https://info.openmined.org/hubfs/OpenMined-Logo.svg)
+<!-- ![immagine](https://info.openmined.org/hubfs/OpenMined-Logo.svg) -->
 
-👉 If you desire to follow my journey: here's the [link]()! 
+👉 If you desire to follow my journey: here's the [link]()!
 
 -------
 👩‍🔬 Author: Giulia Gualtieri <br>
