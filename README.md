@@ -1,4 +1,4 @@
-![immagine](https://github.com/user-attachments/assets/5ce79311-75cf-4e74-870f-9e43749842c1)
+![immagine](https://info.openmined.org/hubfs/30dayspromo.png)
 
 🚀 Welcome to my journey for the **#30DaysOfFLCode** challenge! <br>
 
