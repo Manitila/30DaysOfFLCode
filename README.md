@@ -6,9 +6,9 @@
 
 <!-- ![immagine](https://info.openmined.org/hubfs/OpenMined-Logo.svg) -->
 
-👉 If you desire to follow my journey: here's the [link]()!
+👉 If you desire to follow my journey: here's the [https://www.linkedin.com/feed/hashtag/?keywords=30daysofflcode]()!
 
 -------
-👩‍🔬 Author: Giulia Gualtieri <br>
-📧 Email: giulia.gualtieri@mail.polimi.it <br>
-🗺️ Location: Switzerland
+👩‍🔬 Author:Mani Ho <br>
+📧 Email:https://testnet.humanity.org/dashboard  <br>
+🗺️ Location: China
