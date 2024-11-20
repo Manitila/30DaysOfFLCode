@@ -10,5 +10,5 @@
 
 -------
 👩‍🔬 Author:Mani Ho <br>
-📧 Email:https://testnet.humanity.org/dashboard  <br>
+📧 Email: manitilaginmai@gmail.com  <br>
 🗺️ Location: China
